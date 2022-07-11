@@ -72,3 +72,4 @@ def update_customer(id, new_customer):
             # Found the customer. Update the value.
             CUSTOMERS[index] = new_customer
             break
+        

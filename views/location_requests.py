@@ -74,3 +74,4 @@ def update_location(id, new_location):
             # Found the location. Update the value.
             LOCATIONS[index] = new_location
             break
+        
